@@ -1,5 +1,7 @@
 ### Hi there 👋 This is the  Github account for the UNOFFICIAL Kniterate Users Group
 
+Please visit the [wiki](https://github.com/unofficial-kniterate-users-group/unofficial-kniterate-users-group/wiki)
+
 - 🌱 we're currently learning how to use the Kniterate knitting machine
 - 👯 We're looking to collaborate on Kniterate related learning
 - 🤔 We looking for help sharing information about Kniterate knitting
